@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="users.xsd">
+  <user usertype="admin">
+    <!-- usertype is to check who login whether client , staff or admin-->
+    <userId>123456</userId>
+    <username>IyvonneB</username>
+    <password>ea91be076293ebf4fe674f15c4eb4bce</password>
+    <!--MD5 encyrption password-->
+    <name title="Ms">
+      <first>Iyvonne</first>
+      <last>Bett</last>
+    </name>
+    <contactnumber>+254714472507</contactnumber>
+    <email>yvonnebett1@gmail.com</email>
+  </user>
+  <user usertype="client">
+    <userId>456123</userId>
+    <username>SandB</username>
+    <password>4c25b32a72699ed712dfa80df77fc582</password>
+    <name title="Ms">
+      <first>Ivy</first>
+      <last>Lee</last>
+    </name>
+    <contactnumber>+254765432109</contactnumber>
+    <email>ivylee123@gmail.com</email>
+  </user>
+  <user usertype="client">
+    <userId>007007</userId>
+    <username>kemuntoR</username>
+    <password>205c91182f0351c4226d8921babc8c21</password>
+    <name title="Ms">
+      <first>Kemunto</first>
+      <last>Randa</last>
+    </name>
+    <contactnumber>+254768796543</contactnumber>
+    <email>kemuntoragnar@gmail.com</email>
+  </user>
+<user usertype="client"><userId>22888</userId><username>IyvonneBett </username><password>aff46d8fe2ca5647e064d108e237d6aa</password><name title=""><first>Iyvonne</first><last>Bett</last></name><contactnumber>0714472507</contactnumber><email>yvonnebett1@gmail.com</email></user><user usertype="client"><userId>55548</userId><username>SandB</username><password>cba761c303f8b88a100a7507c4c81332</password><name title=""><first>Sandra</first><last>Bett</last></name><contactnumber>0714472507</contactnumber><email>sandrabett1@gmail.com</email></user><user usertype="client"><userId>57275</userId><username>SandB</username><password>cba761c303f8b88a100a7507c4c81332</password><name><first>Sandra</first><last>Bett</last></name><contactnumber>0714472507</contactnumber><email>sandrabett1@gmail.com</email></user><user usertype="client"><userId>88212</userId><username>fify_waithera </username><password>1db48f7c1b4b5cdebf927b98c7e9b445</password><name><first>Iyvonne</first><last>Betty</last></name><contactnumber>0714472507</contactnumber><email>yvonnebett1@gmail.com</email></user><user usertype="client"><userId>86121</userId><username>fify_waithera </username><password>1db48f7c1b4b5cdebf927b98c7e9b445</password><name><first>Iyvonne</first><last>Betty</last></name><contactnumber>0714472507</contactnumber><email>yvonnebett1@gmail.com</email></user></users>
